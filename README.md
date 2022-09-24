@@ -21,7 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Describe any challenges encountered while building the app.
-- I'm still trying to figure out the layout problem that I have. I followed all videos and yet my layout for the grid collection view is still two columns of movies instead of three evenly spaced cells. 
+- I'm still trying to figure out the layout problem that I have. I followed all videos and yet my layout for the grid collection view is still two columns of movies instead of three evenly spaced cell columns.
 
 ---
 
